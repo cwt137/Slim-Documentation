@@ -24,7 +24,7 @@ an integer; the header is an iterable data structure; and the body is a string. 
     /**
      * Finalize
      * @return [
-     *     200,
+     *     400,
      *     ['Content-type' => 'text/plain'],
      *     'You made a bad request'
      * ]
